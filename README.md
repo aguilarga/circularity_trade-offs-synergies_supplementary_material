@@ -1,4 +1,4 @@
-# Trade-off and synergies analysis - Supplementary Material
+# Circularity Trade-offs and Synergies Analysis - Supplementary Material
 This repository contains the supplementary material for the paper "A MR EEIO-based framework for identifying synergies and trade-offs of circularity interventions"
 
 ## ts_analysis_v1.0.py
