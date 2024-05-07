@@ -1,10 +1,11 @@
-# trade-off-synergies_supplementary_material
+# Trade-off and synergies analysis - Supplementary Material
 This repository contains the supplementary material for the paper "A MR EEIO-based framework for identifying synergies and trade-offs of circularity interventions"
 
-## IOT_2019_ixi folder
-It includes:	
 ## ts_analysis_v1.0.py
 This code includes all functions for assessing trade-offs and synergies with a MRIOA, including geographical, impact and sectoral dimensions.
+
+***Note on Data:*** Results were obtained by using ***EXIOBASE v3.8.2*** (in https://zenodo.org/record/5589597)
+Before running the code, please download ***IOT_2019_ixi*** folder
 
 ## ce_scenario_assumptions.xlsx
 This file includes the details for the scenario analysis
