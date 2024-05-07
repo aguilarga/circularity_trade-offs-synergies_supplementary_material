@@ -2,7 +2,7 @@
 This repository contains the supplementary material for the paper "A MR EEIO-based framework for identifying synergies and trade-offs of circularity interventions"
 
 ## ts_analysis_v1.0.py
-This code includes all functions for assessing trade-offs and synergies with a MRIOA, including geographical, impact and sectoral dimensions.
+This code includes all functions for assessing trade-offs and synergies with a MR EEIOA, including geographical, impact and sectoral dimensions.
 
 ***Note on Data:*** Results were obtained by using ***EXIOBASE v3.8.2*** (in https://zenodo.org/record/5589597)
 Before running the code, please download ***IOT_2019_ixi*** folder
