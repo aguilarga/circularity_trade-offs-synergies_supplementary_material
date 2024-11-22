@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-A MR EEIO-based framework for identifying synergies and trade-offs 
-of circularity interventions
 
 This code retrieves an example on the application of the trade-offs and 
-synergies framework proposed in the paper.
+synergies framework proposed in the paper 
+'How to measure Circularity Trade-offs and Synergies?'.
 
 It includes:
     - An scenario analysis based on Donati et al. (2020)
@@ -20,7 +19,7 @@ Data access: https://zenodo.org/record/5589597
 
 author: aguilarga
 
-Latest update: May 7, 2024
+Latest update: November 22, 2024
 """
 
 # Import packages
