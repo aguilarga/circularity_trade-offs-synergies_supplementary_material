@@ -6,6 +6,7 @@ This code includes all functions for assessing trade-offs and synergies with an 
 
 ***Note on Data:*** Results were obtained by using ***EXIOBASE v3.9.5*** (https://zenodo.org/records/14869924). Before running the code, please download 
 ***IOT_2020_ixi*** folder 
+
 ***Note on Software:*** This code runs with Multifunctional Assessment of Regions through Input-Output (MARIO) Software. Before running the code, please download 
 ***MARIO Software*** available at: https://github.com/it-is-me-mario/MARIO/blob/dev/doc/source/index.rst
 
